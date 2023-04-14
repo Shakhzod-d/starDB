@@ -8,8 +8,8 @@ import DummySwapiService from "./services/dummy-swapi-service";
 import { SwapiServiceProvider } from "./components/swapi-service-context/swapi-service-context";
 import { PeoplePage, PlanetsPage, StarshipsPage } from "./components/pages";
 
-// import "./app.css";
-import "./app.css";
+import "./App.css";
+
 import "bootswatch/dist/darkly/bootstrap.min.css";
 
 export default class App extends Component {
